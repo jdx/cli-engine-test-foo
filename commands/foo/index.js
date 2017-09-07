@@ -1,5 +1,5 @@
 module.exports = {
   topic: 'foo',
-  description: 'core',
+  description: 'link',
   run: function (context) {}
 }
